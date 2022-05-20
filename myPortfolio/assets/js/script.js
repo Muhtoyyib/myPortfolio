@@ -18,7 +18,7 @@ function register(e){
 			msg.innerHTML = "Please use a valid email";
 		} else{
 				msg.className = "alert alert-success";
-				msg.innerHTML = "You have successfully completed the registration";
+				msg.innerHTML = "Thanks for getting in touch. You would get a response soon";
                 form.submit();
 			}
 	}

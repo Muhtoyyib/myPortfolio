@@ -18,6 +18,11 @@ body {
   font-weight: bold;
 }
 
+
+.bold{
+  font-weight: 600;
+}
+
 .intro{
   background-color: #808080;
 }
