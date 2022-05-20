@@ -26,6 +26,10 @@ body {
   background-color: #808080;
 }
 
+#blog{
+  background-color: #808080;
+}
+
 h1,
 h2,
 h3,
@@ -1371,7 +1375,7 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color: #fff;
+  color: #000;
   padding: 25px 0;
   background: #0062d3;
 }
