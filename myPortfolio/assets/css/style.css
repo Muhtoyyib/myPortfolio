@@ -13,9 +13,14 @@ body {
   color: #4e4e4e;
 }
 
-.page h1.format-icon:before {
-  content: none;
-  }
+.intro-subtitle{
+  color: #000;
+  font-weight: bold;
+}
+
+.intro{
+  background-color: #808080;
+}
 
 h1,
 h2,
