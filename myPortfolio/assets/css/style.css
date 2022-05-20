@@ -18,6 +18,10 @@ body {
   font-weight: bold;
 }
 
+#p-img{
+  margin-left: -10px;
+}
+
 
 .bold{
   font-weight: 600;
